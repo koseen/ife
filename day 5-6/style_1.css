@@ -1,0 +1,21 @@
+h1{
+			font-weight:bold;
+			font-size:2rem;
+			text-align:center;
+			text-decoration:underline;
+			text-indent:20px;
+			line-height:1.5;
+			text-shadow:4px 4px 5px orange;
+		}
+		li{
+			color: red;
+			font-family: Helvetica, Arial, sans-serif;
+		}
+		.name{
+			width: 20%;
+			border:solid #999999;
+		}
+		a:link {color:#FF0000;}        /* 未被访问的链接 */
+		a:visited {color:#00FF00;}    /* 已被访问的链接 */
+		a:hover {color:#FF00FF;}    /* 鼠标指针移动到链接上 */
+		a:active {color:#0000FF;} 
