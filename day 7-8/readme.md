@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/koseen/ife/master/day%207-8/ife%E4%BB%BB%E5%8A%A1%E5%9B%BE.png)
+
 设计稿描述：
 
 - 设计稿分为头部，中间的Banner，主导航，内容区域，底部
